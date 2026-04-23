@@ -1,0 +1,13 @@
+flask
+flask-mail
+opencv-python
+numpy
+pandas
+pillow
+piexif
+imagehash
+geocoder
+mysql-connector-python
+werkzeug
+shapely
+imutils
